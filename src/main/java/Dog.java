@@ -5,7 +5,7 @@ import lombok.Data;
 public class Dog {
     private String name;
 
-    public String dogSay(){
+    public String say(){
         return "Gavvv";
     }
 }

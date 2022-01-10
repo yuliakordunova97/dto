@@ -4,7 +4,7 @@ import lombok.Data;
 public class Cat {
     private String name;
 
-    public String catSay(){
+    public String say(){
         return"Mayyyy";
     }
 }
